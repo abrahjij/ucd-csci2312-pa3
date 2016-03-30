@@ -10,6 +10,8 @@
 
 #include "ErrorContext.h"
 #include "ClusteringTests.h"
+#include "Point.h"
+#include "Cluster.h"
 
 using std::cout;
 using std::endl;
